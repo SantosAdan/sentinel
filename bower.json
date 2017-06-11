@@ -1,0 +1,24 @@
+{
+  "name": "Custom-Laravel-Base-App",
+  "description": "A custom fresh Laravel 5.4 installation with some cool starting packages",
+  "main": "",
+  "authors": [
+    "SantosAdan <santos.adaan@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "laravel"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.98.2"
+  }
+}
