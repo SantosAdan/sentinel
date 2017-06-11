@@ -40,12 +40,12 @@
   <body>
     <!-- Dropdown Structure -->
     <ul id="dropdown1" class="dropdown-content">
-      <li>
+      {{-- <li>
         <a href="#!">
           <i class="material-icons">info_outline</i>
           Sobre Nós
         </a>
-      </li>
+      </li> --}}
       <li class="divider"></li>
       {{-- Logout Section --}}
       <li>
@@ -63,7 +63,7 @@
     <!-- End of Dropdown Structure -->
 
     <!-- Navbar Structure -->
-    <nav class="blue lighten-1" role="navigation">
+    <nav class="blue darken-4" role="navigation">
       <div class="nav-wrapper container-fluid" style="padding-left: 1%;">
         <!-- Logo Section -->
         <a id="logo-container" href="#" class="brand-logo">
